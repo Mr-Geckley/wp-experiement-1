@@ -1,0 +1,14 @@
+/*
+ Theme Name:   Twenty Twenty Child
+ Theme URI:    http://geckcodes.local
+ Description:  Twenty Twenty Child Theme
+ Author:       Matt Geckley
+ Author URI:   http://geckley.design
+ Template:     twentytwenty
+ Version:      0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentyfifteenchild
+*/
+@import url("../twentytwenty/style.css");
